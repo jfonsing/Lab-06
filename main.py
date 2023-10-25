@@ -3,6 +3,7 @@
     Date: 10/25/2023
     Project: Lab 6: Git
     Description: A lab demonstrating the purpose and usefullness of version control
+    Collaborators: Henry Perlstein, Jenna Fonsing
 '''
 
 # defines main function
